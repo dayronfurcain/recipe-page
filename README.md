@@ -19,8 +19,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Recipe Page](https://github.com/dayronfurcain/recipe-page-solution.git)
-- Live Site URL: [Recipe Page](https://your-live-site-url.com)
+- Solution URL: [Recipe Page](https://github.com/dayronfurcain/recipe-page.github.io)
+- Live Site URL: [Recipe Page](https://github.com/dayronfurcain/recipe-page.github.io)
 
 ## My process
 
